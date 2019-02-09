@@ -1,0 +1,57 @@
+v4
+Install cmder
+Install nvm windows
+Install node 8.11.4:
+nvm install 8.11.4
+nvm use 8.11.4
+nvm list
+node -v
+
+Install IONIC:
+search for ionic docs
+ionic framework
+install with cli
+npm install -g ionic cordova
+
+To create app ionic start <name_of_application>
+ionic start heartStoneLib tabs --type=angular
+
+To run
+ionic serve --lab
+
+Type yes to install ionic lab
+
+ionic serve
+
+git clone https://github.com/Jerga99/heartStoneLib-starter.git heartStoneLibApp
+cd heartStoneLibApp
+npm install
+git remote -v
+git remote rm origin
+go to github and create new repository heartStoneLibApp
+git remote add origin git...
+git push -u origin master
+
+V10 Signup to hearthstone api to get a key
+
+V19
+ionic generate page card/card-listing
+
+v26 LOADING
+search for loading ionic 4 -> loading controller
+
+v32 EMULATE App on ios and android
+ionic cordova emulate ios --livereload
+
+for Android need to download Android studio
+install homebrew https://brew.sh  NON!!!!
+type command: brew install gradle NON !!!!!
+install gradle from https://gradle.org/releases/ download binary only v4.9
+ionic cordova emulate android --livereload
+
+
+
+
+
+
+
