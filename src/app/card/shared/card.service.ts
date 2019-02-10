@@ -8,7 +8,7 @@ import { CardDeck, Card } from './card.model';
 export class CardService {
 
     private readonly HS_API_URL = 'https://omgvamp-hearthstone-v1.p.mashape.com';
-    private readonly API_KEY = 'aZoR5Z1fafmshorlNdJpUhkT0H9Cp1m9MPkjsntH6iDrrdWdPVq';
+    private readonly API_KEY = 'aZoR5Z1fafmshorlNdJpUhkT0H9Cp1m9MPkjsntH6iDrrdWdPVv';
   
     private headers: HttpHeaders;
   

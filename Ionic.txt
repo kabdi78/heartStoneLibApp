@@ -49,6 +49,13 @@ type command: brew install gradle NON !!!!!
 install gradle from https://gradle.org/releases/ download binary only v4.9
 ionic cordova emulate android --livereload
 
+v38 IONIC STORAGE
+ionic cordova plugin add cordova-sqlite-storage
+npm install --save @ionic/storage
+
+to find ion icons search for ion icons
+
+v43 !this.favoriteCardSub.closed means to check if not already unsubscribed!!
 
 
 
